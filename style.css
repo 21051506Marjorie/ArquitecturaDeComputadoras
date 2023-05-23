@@ -1,0 +1,47 @@
+{
+    padding:0;
+    margin:0;
+}
+h1{
+    text-align: center;
+    background-color: black;
+    color: bisque;
+    padding: 20px;
+}
+h2{
+    background-color: blanchedalmond;
+    width: 100%;
+    list-style-type: none;
+    text-align: center;
+}
+ button{
+    background-color: #87F1DB;
+       width: 100%;
+    list-style-type: none;
+    text-align: center;
+ }
+h3{
+   text-align: center;
+   background-color: gray;
+   color:aquamarine;
+   padding: 15px;
+}
+h4{
+    
+    width: auto;
+    list-style-type: disc;
+    width: 70%;
+}
+p{
+    
+    font-language-override: normal;
+    width: auto;
+    text-align: justify;
+    list-style-type: disc;
+    width: 100%;
+
+}
+body{
+    background-color: #D7A9F0;
+}
+
